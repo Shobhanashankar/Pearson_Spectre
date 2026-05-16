@@ -1,0 +1,1 @@
+Spectre reviewed `demo_vendor_agreement_5f6caa32d682`: 4 violations, 2 at-risk clauses. 6 redlines proposed. Overall: RED.
